@@ -1,7 +1,9 @@
+// HSNv2 Freelance Dev.
+// https://github.com/HSNv2/ERC20_TAX_BURNABLE_CHANGEOWNER_CONTRACT
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
 
-contract HSNV2Contract {
+contract BEP20 {
     string public name = "Your Token Name";
     string public symbol = "SYMBOL";
     uint8 public decimals = 9;
